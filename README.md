@@ -8,11 +8,15 @@
 
 ## 🚀 About Me
 
-🎓 CSE Student at **First Capital University of Bangladesh (FCUB)**
+Motivated Computer Science & Engineering student (**Expected Graduation 2027**) with firsthand experience in frontend development using **React, JavaScript, HTML/CSS, and Firebase**. Demonstrated ability to independently build and deploy full-stack web applications featuring authentication, real-time databases, and responsive UI.
+
+Complemented by industrial training in hardware/software support, networking, and system maintenance, alongside strong skills in digital media design.
+
+⚡ Enthusiastic about solving real-world problems through clean, efficient code and creative design.
+
 🎨 Digital Media Designer focused on image-based news content & media visuals
-🖥️ Learning modern web development and UI/UX design
-📢 Experienced in creating posters, social media visuals, and news-style graphics
-⚡ Passionate about clean design, branding, and responsive interfaces
+🖥️ Passionate about modern frontend development & UI/UX design
+📢 Experienced in creating posters, social media visuals, and media-style graphics
 
 ---
 
@@ -48,6 +52,12 @@
 <a href="https://github.com/Ali-Emam-Rabbi" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
+<a href="https://www.facebook.com/aliemam.rabby" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=facebook" height="40" />
+</a>
+<a href="https://www.linkedin.com/in/aliemamrabbi" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 </p>
 
 ---
@@ -64,7 +74,7 @@
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Emam-Rabbi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Emam-Rabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 ---
