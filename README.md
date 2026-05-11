@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ali Emam Rabbi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+Student+at+FCUB;Digital+Media+Designer;Frontend+Development+Learner;UI%2FUX+Design+Enthusiast;Creative+News+%26+Media+Visual+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+Student+at+FCUB;Frontend+Development+Learner;React+%26+Firebase+Developer;UI%2FUX+Design+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
@@ -65,8 +65,8 @@ Complemented by industrial training in hardware/software support, networking, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Emam-Rabbi&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Emam-Rabbi&theme=tokyonight&hide_border=true" height="180" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ali-Emam-Rabbi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Ali-Emam-Rabbi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Complemented by industrial training in hardware/software support, networking, an
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Emam-Rabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Emam-Rabbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" />
 </p>
 
 ---
