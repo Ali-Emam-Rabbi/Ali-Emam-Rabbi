@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**Ali-Emam-Rabbi/Ali-Emam-Rabbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...# Hi there 👋, I'm Ali Emam Rabbi
+# Hi there 👋, I'm Ali Emam Rabbi
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=CSE+Student+at+FCUB;Digital+Media+Designer;Frontend+Development+Learner;UI%2FUX+Design+Enthusiast;Creative+News+%26+Media+Visual+Designer" alt="Typing SVG" />
@@ -93,6 +80,3 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ali-Emam-Rabbi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-- ⚡ Fun fact: ...
--->
